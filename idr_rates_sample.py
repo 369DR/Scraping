@@ -10,4 +10,3 @@ for data in json_data.values():
     print(data['name'])
     print(data['date'])
     print(data['inverseRate'])
-
